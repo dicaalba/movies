@@ -7,8 +7,6 @@ import Register from '../../register/components/Register';
 export default function Layout() {
   return (
     <Routes>
-      <Route path="/" element={<Login />} />
-      <Route path="signup" element={<Register />} />
       <Route path="home" element={<Home />} />
     </Routes>
   )

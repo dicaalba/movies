@@ -1,0 +1,56 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-movies-dev-214600-authRole",
+      "UnauthRoleArn": "arn:aws:iam::154287336523:role/amplify-movies-dev-214600-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::154287336523:role/amplify-movies-dev-214600-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-movies-dev-214600-deployment",
+      "UnauthRoleName": "amplify-movies-dev-214600-unauthRole",
+      "StackName": "amplify-movies-dev-214600",
+      "StackId": "arn:aws:cloudformation:us-east-1:154287336523:stack/amplify-movies-dev-214600/def7f120-691a-11ec-b56d-0e20e31e34ef",
+      "AmplifyAppId": "d2b32ry548vhr4"
+    }
+  },
+  "auth": {
+    "moviesccae5fdd": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-movies-dev-214600-deployment/amplify-cfn-templates/auth/moviesccae5fdd-cloudformation-template.json",
+        "logicalId": "authmoviesccae5fdd"
+      },
+      "lastPushTimeStamp": "2021-12-30T03:01:23.150Z",
+      "output": {
+        "UserPoolId": "us-east-1_cuaRPVDQW",
+        "AppClientIDWeb": "2vs8pbdl1gscaesvacsgeno27k",
+        "AppClientID": "71iuonvg5cvbgf9vqaumtr35li",
+        "IdentityPoolId": "us-east-1:d0d6d9b8-3cd6-4dbb-8746-0dda0c806432",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-1:154287336523:userpool/us-east-1_cuaRPVDQW",
+        "IdentityPoolName": "moviesccae5fdd_identitypool_ccae5fdd__dev",
+        "UserPoolName": "moviesccae5fdd_userpool_ccae5fdd"
+      },
+      "lastPushDirHash": "wR9qJrln3t42LjdtMxlV/rycv74="
+    }
+  }
+}

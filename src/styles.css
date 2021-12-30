@@ -1,0 +1,28 @@
+/* @import "@aws-amplify/ui-react/styles.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+:root, [data-amplify-theme] {
+  background-color: #141414 !important;
+  color: #FFFFFF  !important;
+}
+
+ button {
+   background-color: #9747ff  !important;
+   color: #FFFFFF  !important;
+} */
+
+@import "@aws-amplify/ui-react/styles.css";
+
+:root {
+  color: #FFFFFF  !important;
+  --amplify-colors-brand-primary-80: #9747ff;
+  --amplify-colors-background-secondary:  #141414;
+  background-image: none !important
+}
+.amplify-tabs-item {
+  background-color: #141414  !important;
+  color: #FFFFFF  !important;
+}
+[data-amplify-authenticator][data-variation=modal]::before {
+  background-image: none !important
+}
