@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dicaalba/movies/static/css/main.073c9b0a.css",
-    "main.js": "/dicaalba/movies/static/js/main.456c3c8b.js",
-    "static/js/787.1441249e.chunk.js": "/dicaalba/movies/static/js/787.1441249e.chunk.js",
-    "static/media/logo.svg": "/dicaalba/movies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dicaalba/movies/index.html",
-    "main.073c9b0a.css.map": "/dicaalba/movies/static/css/main.073c9b0a.css.map",
-    "main.456c3c8b.js.map": "/dicaalba/movies/static/js/main.456c3c8b.js.map",
-    "787.1441249e.chunk.js.map": "/dicaalba/movies/static/js/787.1441249e.chunk.js.map"
+    "main.css": "/movies/static/css/main.073c9b0a.css",
+    "main.js": "/movies/static/js/main.2b79f08f.js",
+    "static/js/787.1441249e.chunk.js": "/movies/static/js/787.1441249e.chunk.js",
+    "static/media/logo.svg": "/movies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movies/index.html",
+    "main.073c9b0a.css.map": "/movies/static/css/main.073c9b0a.css.map",
+    "main.2b79f08f.js.map": "/movies/static/js/main.2b79f08f.js.map",
+    "787.1441249e.chunk.js.map": "/movies/static/js/787.1441249e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.456c3c8b.js"
+    "static/js/main.2b79f08f.js"
   ]
 }
