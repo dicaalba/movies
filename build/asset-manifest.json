@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dicaalba/movies/static/css/main.02892095.css",
+    "main.js": "/dicaalba/movies/static/js/main.44aacab9.js",
+    "static/js/787.1441249e.chunk.js": "/dicaalba/movies/static/js/787.1441249e.chunk.js",
+    "index.html": "/dicaalba/movies/index.html",
+    "static/media/index.cjs": "/dicaalba/movies/static/media/index.06ad11ea3e32fd3e4303.cjs",
+    "main.02892095.css.map": "/dicaalba/movies/static/css/main.02892095.css.map",
+    "main.44aacab9.js.map": "/dicaalba/movies/static/js/main.44aacab9.js.map",
+    "787.1441249e.chunk.js.map": "/dicaalba/movies/static/js/787.1441249e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02892095.css",
+    "static/js/main.44aacab9.js"
+  ]
+}
