@@ -2,7 +2,7 @@
   "name": "movies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dicaalba/movies",
+  "homepage": "https://dicaalba.github.io/movies/",
   "dependencies": {
     "@aws-amplify/ui-react": "^2.1.5",
     "@emotion/react": "^11.7.1",
